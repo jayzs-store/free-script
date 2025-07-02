@@ -2,7 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/NAMA_USER_ANDA/NAMA_REPO_ANDA?style=social)](https://github.com/NAMA_USER_ANDA/NAMA_REPO_ANDA/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/NAMA_USER_ANDA/NAMA_REPO_ANDA?style=social)](https://github.com/jayzs-store/free-script/stargazers)
 
 ![Garis Pemisah](https://raw.githubusercontent.com/FIRandZAH/FIRandZAH/main/assets/images/line-separator.gif)
 
