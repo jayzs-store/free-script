@@ -38,7 +38,7 @@ Sebuah *tool* berbasis baris perintah (CLI) untuk berinteraksi dengan akun game 
 ### Langkah-langkah Setup
 1.  **Clone Repositori:**
     ```bash
-    git clone [https://github.com/jayzs-store/free-script.git](https://github.com/jayzs-store/free-script.git)
+    git clone https://github.com/jayzs-store/free-script.git
     cd free-script
     ```
 
